@@ -1,5 +1,5 @@
 export const APP_CONFIG = {
-    SOCKET_URL: 'ws://city-ws.herokuapp.com/‌',
+    SOCKET_URL: 'wss://city-ws.herokuapp.com/‌',
     AQI_CATEGORIES: [
         {
             title: 'Good',
